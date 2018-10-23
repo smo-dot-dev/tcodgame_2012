@@ -1,0 +1,10 @@
+C:\Users\Samuel\Dropbox\__CODE\C#\tcodgame\tcodgame\bin\x86\Debug\tcodgame.exe
+C:\Users\Samuel\Dropbox\__CODE\C#\tcodgame\tcodgame\bin\x86\Debug\tcodgame.pdb
+C:\Users\Samuel\Dropbox\__CODE\C#\tcodgame\tcodgame\bin\x86\Debug\libtcod-net.dll
+C:\Users\Samuel\Dropbox\__CODE\C#\tcodgame\tcodgame\obj\x86\Debug\tcodgame.csprojAssemblyReference.cache
+C:\Users\Samuel\Dropbox\__CODE\C#\tcodgame\tcodgame\obj\x86\Debug\tcodgame.csproj.CoreCompileInputs.cache
+C:\Users\Samuel\Dropbox\__CODE\C#\tcodgame\tcodgame\obj\x86\Debug\tcodgame.csproj.CopyComplete
+C:\Users\Samuel\Dropbox\__CODE\C#\tcodgame\tcodgame\obj\x86\Debug\tcodgame.exe
+C:\Users\Samuel\Dropbox\__CODE\C#\tcodgame\tcodgame\obj\x86\Debug\tcodgame.pdb
+C:\Users\Samuel\Dropbox\__CODE\C#\tcodgame\tcodgame\bin\x86\Debug\tileset.png
+C:\Users\Samuel\Dropbox\__CODE\C#\tcodgame\tcodgame\obj\x86\Debug\tcodgame.g.resources
